@@ -1,0 +1,37 @@
+.App {
+  background-color: #eae9e4;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.App .nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.App .nav .button {
+  border-radius: 100%;
+  padding: 20px;
+  color: #fff;
+}
+
+.App .nav .button .hamburger {
+  width: 50px;
+  height: 50px;
+}
+
+.App .button {
+  background-color: #1c1717;
+  color: #c8b6a9;
+  padding: 15px;
+  margin: 50px;
+  border-radius: 50px;
+}
+/*# sourceMappingURL=App.css.map */
